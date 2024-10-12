@@ -41,9 +41,11 @@
 
 
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
-Eric Song: e7song
+- Eric Song: e7song
 
 #### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
-Francis Fernandez: FrancisSanB
-Jeffrei Arriola Acosta: JeffArr
-Kevin Ruvalcaba: Kruvalcaba85
+- Francis Fernandez: FrancisSanB
+
+- Jeffrei Arriola Acosta: JeffArr
+
+- Kevin Ruvalcaba: Kruvalcaba85
