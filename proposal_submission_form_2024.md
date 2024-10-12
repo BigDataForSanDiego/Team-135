@@ -8,7 +8,7 @@
 ##### We want to address the lack of healthcare access in rural areas by streamlining existing shuttle services to nearby hospitals or health clinics.
 
 
-#### A visual
+<!-- #### A visual -->
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
 <img height="1%" width="5%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
 
@@ -41,6 +41,9 @@
 
 
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+Eric Song: e7song
 
 #### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
-
+Francis Fernandez: FrancisSanB
+Jeffrei Arriola Acosta: JeffArr
+Kevin Ruvalcaba: Kruvalcaba85
