@@ -5,7 +5,7 @@
 #### Team Name: Matcha Latte    
   
 #### Your team's hackathon idea in one sentence:
-##### We want to address the lack of healthcare access in rural areas by streamlining existing shuttle services to nearby hospitals or health clinics.
+##### We want to address the lack of preventative healthcare access in rural areas by aggregating existing shuttle services to nearby hospitals and health clinics with a user-friendly route scheduling/planning application. 
 
 
 <!-- #### A visual -->
@@ -16,6 +16,9 @@
 #### Theme: Enhancing Healthcareâ€™s Digital Front Door
 #### - Digital solutions to help increase access, manage health, and improve patient satisfaction along the healthcare journey -  
 -->
+
+![image](https://github.com/user-attachments/assets/ab7048ab-3d9a-45e4-b89f-db5e746b359b)
+
 
 #### Hackathon Five CORE Themes. `CHECK ONE or TWO QUESTIONS (insert X in [ ])`.
 - [X] Access to care
@@ -44,7 +47,7 @@
 
 #### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
 - Eric Song: e7song
-- 
+  
 - Francis Fernandez: FrancisSanB
 
 - Jeffrei Arriola Acosta: JeffArr
